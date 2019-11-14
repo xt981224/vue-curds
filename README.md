@@ -2,15 +2,15 @@
 
 #### 首页
 
-![](https://github.com/IFmiss/vue-website/blob/master/static/testimg/1.jpg)
+![](https://github.com/xt981224/vue-curds/blob/master/static/testimg/1.jpg)
 
 #### 详情
 
-![](https://github.com/IFmiss/vue-website/blob/master/static/testimg/2.jpg)
+![](https://github.com/xt981224/vue-curds/blob/master/static/testimg/2.jpg)
 
 #### 修改  
 
-![](https://github.com/IFmiss/vue-website/blob/master/static/testimg/3.jpg)
+![](https://github.com/xt981224/vue-curds/blob/master/static/testimg/3.jpg)
 
 ## 执行方法
 

@@ -1,21 +1,34 @@
-# vcustomers
+## 截图
 
-> A Vue.js project
+#### 首页
 
-## Build Setup
+![](https://github.com/IFmiss/vue-website/blob/master/static/testimg/1.jpg)
+
+#### 详情
+
+![](https://github.com/IFmiss/vue-website/blob/master/static/testimg/2.jpg)
+
+#### 修改  
+
+![](https://github.com/IFmiss/vue-website/blob/master/static/testimg/3.jpg)
+
+## 执行方法
 
 ``` bash
-# install dependencies
+# install dependencies   安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8081   启动项目
 npm run dev
-
-# build for production with minification
+cd 到json文件中 npm run test
+# build for production with minification    打包项目
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 描述
+根据 jsonserver搭建本地服务器添加数据，使用vue进行本地服务器数据增删改查
+
+## 使用到的技术 &　插件
+vuex  axios ue-router
+

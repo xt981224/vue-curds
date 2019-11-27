@@ -30,5 +30,5 @@ npm run build
 根据 jsonserver搭建本地服务器添加数据，使用vue进行本地服务器数据增删改查
 
 ## 使用到的技术 &　插件
-vuex  axios ue-router
+vuex  axios vue-router
 
